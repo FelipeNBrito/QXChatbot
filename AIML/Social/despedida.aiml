@@ -1,0 +1,36 @@
+<aiml version="1.0.1" encoding="UTF-8" ?>
+	
+	<category>
+		<pattern>Tchau</pattern>
+		<template>
+	      <random>
+	        <li>Tchau!</li>
+	        <li>Até depois!</li>
+	        <li>Até a próxima!</li>
+	      </random>
+	    </template> 
+	</category>
+
+	<category>
+		<pattern>Até a próxima</pattern>
+		<template>
+	      <random>
+	        <li>Tchau!</li>
+	        <li>Até depois!</li>
+	        <li>Até a próxima!</li>
+	      </random>
+	    </template> 
+	</category>
+
+	<category>
+		<pattern>Adeus</pattern>
+		<template>
+	      <random>
+	        <li>Tchau!</li>
+	        <li>Até depois!</li>
+	        <li>Até a próxima!</li>
+	      </random>
+	    </template> 
+	</category>
+
+</aiml>

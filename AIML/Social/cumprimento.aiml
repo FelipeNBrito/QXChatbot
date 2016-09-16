@@ -1,0 +1,87 @@
+<aiml version="1.0.1" encoding="UTF-8" ?>
+	
+	<category>
+		<pattern>Oi</pattern>
+		<template>
+	      <random>
+	        <li>Olá, como posso te ajudar?</li>
+	        <li>Oi, como posso te ajudar?</li>
+	        <li>Olá, como posso te auxiliar?</li>
+	        <li>Oi, como posso te auxiliar?</li>
+	        <li>Saudações ser terrestre, como posso te auxiliar?</li>
+	      </random>
+	    </template> 
+	</category>
+
+	<category>
+		<pattern>Olá</pattern>
+		<template>
+	      <random>
+	        <li>Olá, como posso te ajudar?</li>
+	        <li>Oi, como posso te ajudar?</li>
+	        <li>Olá, como posso te auxiliar?</li>
+	        <li>Oi, como posso te auxiliar?</li>
+	        <li>Saudações ser terrestre, como posso te auxiliar?</li>
+	      </random>
+	    </template> 
+	</category>
+
+	<category>
+		<pattern>Ola</pattern>
+		<template>
+	      <random>
+	        <li>Olá, como posso te ajudar?</li>
+	        <li>Oi, como posso te ajudar?</li>
+	        <li>Olá, como posso te auxiliar?</li>
+	        <li>Oi, como posso te auxiliar?</li>
+	        <li>Saudações ser terrestre, como posso te auxiliar?</li>
+	      </random>
+	    </template> 
+	</category>
+	
+	<category>
+		<pattern>Oi, bom dia</pattern>
+		<template>
+	      <random>
+	      	<li>Bom dia! Como posso te ajudar?</li>
+	      	<li>Bom dia! Como posso te auxiliar?</li>
+	        <li>Olá, como posso te ajudar?</li>
+	        <li>Oi, como posso te ajudar?</li>
+	        <li>Olá, como posso te auxiliar?</li>
+	        <li>Oi, como posso te auxiliar?</li>
+	        <li>Saudações ser terrestre, como posso te auxiliar?</li>
+	      </random>
+	    </template> 
+	</category>
+
+	<category>
+		<pattern>Oi, boa tarde</pattern>
+		<template>
+	      <random>
+	      	<li>Boa tarde! Como posso te ajudar?</li>
+	      	<li>Boa tarde! Como posso te auxiliar?</li>
+	        <li>Olá, como posso te ajudar?</li>
+	        <li>Oi, como posso te ajudar?</li>
+	        <li>Olá, como posso te auxiliar?</li>
+	        <li>Oi, como posso te auxiliar?</li>
+	        <li>Saudações ser terrestre, como posso te auxiliar?</li>
+	      </random>
+	    </template> 
+	</category>
+
+	<category>
+		<pattern>Oi, boa noite</pattern>
+		<template>
+	      <random>
+	      	<li>Boa noite! Como posso te ajudar?</li>
+	      	<li>Boa noite! Como posso te auxiliar?</li>
+	        <li>Olá, como posso te ajudar?</li>
+	        <li>Oi, como posso te ajudar?</li>
+	        <li>Olá, como posso te auxiliar?</li>
+	        <li>Oi, como posso te auxiliar?</li>
+	        <li>Saudações ser terrestre, como posso te auxiliar?</li>
+	      </random>
+	    </template> 
+	</category>
+
+</aiml>
