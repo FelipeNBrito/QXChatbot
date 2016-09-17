@@ -84,4 +84,18 @@
 	    </template> 
 	</category>
 
+	<category>
+		<pattern>Bom dia</pattern>
+		<template>
+	      Bom dia!
+	    </template> 
+	</category>
+
+	<category>
+		<pattern>Boa noite</pattern>
+		<template>
+	      Boa noite!
+	    </template> 
+	</category>
+
 </aiml>

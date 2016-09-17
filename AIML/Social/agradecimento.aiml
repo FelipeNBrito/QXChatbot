@@ -1,0 +1,43 @@
+<aiml version="1.0.1" encoding="UTF-8" ?>
+	
+	<category>
+		<pattern>Obrigado!</pattern>
+		<template>
+	      <random>
+	        <li>De nada!</li>
+	        <li>Por nada!</li>
+	      </random>
+	    </template> 
+	</category>
+
+	<category>
+		<pattern>Obrigado</pattern>
+		<template>
+	      <random>
+	        <li>De nada!</li>
+	        <li>Por nada!</li>
+	      </random>
+	    </template> 
+	</category>
+
+	<category>
+		<pattern>Valeu</pattern>
+		<template>
+	      <random>
+	        <li>De nada!</li>
+	        <li>Por nada!</li>
+	      </random>
+	    </template> 
+	</category>
+
+	<category>
+		<pattern>Agradeço</pattern>
+		<template>
+	      <random>
+	        <li>De nada!</li>
+	        <li>Por nada!</li>
+	      </random>
+	    </template> 
+	</category>
+	
+</aiml>

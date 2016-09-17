@@ -1,0 +1,42 @@
+<aiml version="1.0.1" encoding="UTF-8" ?>
+
+	<category>
+		<pattern> O que é o curso de sistemas de informação </pattern>
+		<template>
+	      A Universidade Federal do Ceará oferta o Curso de Bacharelado em Sistemas de Informação, com sede em Quixadá (CE), sintonizada com as iniciativas da área de Tecnologia da Informação do Estado e atenta às necessidades qualitativas e quantitativas exigidas pelo mercado de Tecnologia da Informação (TI).
+
+          A disciplina acadêmica/profissional de Sistemas de Informação contitui-se de uma ponte entre os campos multidisciplinares de negócios e de ciência da computação. Nessa área, estuda-se os processos de concepção, desenvolvimento e implantação de um sistema de informação, bem como os tipos de características inerentes a tais sistemas. As organizações empregam soluções de sistemas de informação com o objetivo de melhorar a eficiência e eficácia com que operam suas atividades. Por esse motivo, tais soluções estão relacionadas a atividades estratégicas operacionais e de gerenciamento, normalmente com aporte computacional.
+	    </template> 
+	</category>
+
+	<category>
+		<pattern> O que é o curso de SI </pattern>
+		<template>
+	      A Universidade Federal do Ceará oferta o Curso de Bacharelado em Sistemas de Informação, com sede em Quixadá (CE), sintonizada com as iniciativas da área de Tecnologia da Informação do Estado e atenta às necessidades qualitativas e quantitativas exigidas pelo mercado de Tecnologia da Informação (TI).
+
+          A disciplina acadêmica/profissional de Sistemas de Informação contitui-se de uma ponte entre os campos multidisciplinares de negócios e de ciência da computação. Nessa área, estuda-se os processos de concepção, desenvolvimento e implantação de um sistema de informação, bem como os tipos de características inerentes a tais sistemas. As organizações empregam soluções de sistemas de informação com o objetivo de melhorar a eficiência e eficácia com que operam suas atividades. Por esse motivo, tais soluções estão relacionadas a atividades estratégicas operacionais e de gerenciamento, normalmente com aporte computacional.
+	    </template> 
+	</category>
+	
+	<category>
+		<pattern> * mercado de trabalho * </pattern>
+		<template>
+	      No curso Bacharelado em Sistemas de Informação da UFC, Campus Quixadá, os estudantes têm a oportunidade de estudar diversos modelos de negócios e as soluções computacionais associadas. O mercado de trabalho para egressos deste curso é dinâmico e traz muitas oportunidades de carreiras promissoras. Em particular, profissionais com conhecimento técnico especializado e boas capacidades de comunicação são os mais procurados pelo mercado. Profissionais com habiidades de gerenciamento e compreensão das práticas de negócios também terão excelentes oportunidades.
+	    </template> 
+	</category>
+
+	<category>
+		<pattern> * formas de ingresso * </pattern>
+		<template>
+	      O ingresso no curso de Sistema de Informação se dá mediante prova do ENEM e Sistema de Seleção Unificada (SISU). O curso oferta 50 vagas anuais, com ingresso no primeiro semestre de cada ano.
+	    </template> 
+	</category>
+
+	<category>
+		<pattern> * ingressar * </pattern>
+		<template>
+	      O ingresso no curso de Sistema de Informação se dá mediante prova do ENEM e Sistema de Seleção Unificada (SISU). O curso oferta 50 vagas anuais, com ingresso no primeiro semestre de cada ano.
+	    </template> 
+	</category>
+
+</aiml>
